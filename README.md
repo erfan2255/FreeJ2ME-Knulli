@@ -25,7 +25,7 @@ Note: Knulli OS is required to be installed
  
 Enjoy
 
-patch from [4pda user](https://4pda.to/forum/index.php?showtopic=1079913&st=9580#entry131374113)
+patch from [4pda](https://4pda.to/forum/index.php?showtopic=1079913&st=9580#entry131374113)
 
 Follow [CoreLand](https://youtube.com/@coreland2) on Youtube
 <!-- SCREENSHOTS -->

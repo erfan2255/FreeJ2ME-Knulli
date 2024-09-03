@@ -1,2 +1,31 @@
-# FreeJ2ME-Knulli
-FreeJ2ME is a free and open source J2ME emulator with a focus on Java games. It was designed to run on Knulli H700 RG35XX Plus/H/SP &amp; others using Libretro and RetroArch
+# FreeJ2ME on Knulli
+FreeJ2ME is a free and open source J2ME emulator with a focus on Java games. It was designed to run on Knulli H700 RG35xx family using Libretro and RetroArch
+
+Play java games on rg35xx h700 device
+
+It was tested exclusively on the RG35XX Plus & H
+
+Note: Knulli OS is required to be installed
+<!-- INSTALLATION -->
+## Installation
+
+1- Download knulli_patch_20240721.tar.gz.sh and throw it in roms/ports and start from there directly (it works on both ext4 & exfat)
+
+2- Dont Panic! be patient and wait for process to be finished successfully
+
+3- System reboots and then you can grab your game.jar into j2me folder that has created in `/roms/j2me`
+
+4- I highly suggest to go for 320x240 resolution for full screen experience in games
+
+5- Default resolution of j2me core is `240x320` so to change res, after first run of java game, j2me config will be created in:
+  ```sh
+/userdata/system/configs/retroarch/retroarchcustom.cfg
+  ```
+ then look for freej2me script and change res to `320x240` also if you had frame issue in games limit fps to 30 or 15. (I used odcommander to edit lines)
+
+ 
+Enjoy
+
+Follow [CoreLand](https://youtube.com/@coreland2) on Youtube
+<!-- SCREENSHOTS -->
+## Screenshots

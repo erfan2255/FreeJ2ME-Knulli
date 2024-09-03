@@ -1,5 +1,5 @@
 # FreeJ2ME on Knulli
-FreeJ2ME is a free and open source J2ME emulator with a focus on Java games. It was designed to run on Knulli H700 RG35xx family using Libretro and RetroArch
+FreeJ2ME is a free and open source J2ME emulator with a focus on Java games. It is ready to run on Knulli H700 RG35xx family using Libretro and RetroArch
 
 Play java games on rg35xx h700 device
 

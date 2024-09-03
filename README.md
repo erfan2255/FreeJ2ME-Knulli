@@ -23,7 +23,7 @@ Note: Knulli OS is required to be installed
   ```
  then look for freej2me script and change res to `320x240` also if you had frame issue in games limit fps to 30 or 15. (I used odcommander to edit lines)
  
-Enjoy
+<b> Enjoy! </b>
 
 patch from [4pda](https://4pda.to/forum/index.php?showtopic=1079913&st=9580#entry131374113)
 

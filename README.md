@@ -19,7 +19,7 @@ Note: Knulli OS is required to be installed
 
 5- Default resolution of j2me core is `240x320` so to change res, after first run of java game, j2me config will be created in:
   ```sh
-/userdata/system/configs/retroarch/retroarchcustom.cfg
+/userdata/system/configs/retroarch/cores/retroarch-core-options.cfg
   ```
  then look for freej2me script and change res to `320x240` also if you had frame issue in games limit fps to 30 or 15. (I used odcommander to edit lines)
  

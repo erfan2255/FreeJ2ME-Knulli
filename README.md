@@ -22,9 +22,10 @@ Note: Knulli OS is required to be installed
 /userdata/system/configs/retroarch/retroarchcustom.cfg
   ```
  then look for freej2me script and change res to `320x240` also if you had frame issue in games limit fps to 30 or 15. (I used odcommander to edit lines)
-
  
 Enjoy
+
+patch from [4pda user](https://4pda.to/forum/index.php?showtopic=1079913&st=9580#entry131374113)
 
 Follow [CoreLand](https://youtube.com/@coreland2) on Youtube
 <!-- SCREENSHOTS -->

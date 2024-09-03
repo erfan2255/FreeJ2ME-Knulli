@@ -9,7 +9,7 @@ Note: Knulli OS is required to be installed
 <!-- INSTALLATION -->
 ## Installation
 
-1- Download [knulli_patch_20240721](https://github.com/erfan2255/FreeJ2ME-Knulli/releases) unzip and throw it in `roms/ports` and start from there directly (works on ext4 & exfat)
+1- Download [knulli_patch_20240721](https://github.com/erfan2255/FreeJ2ME-Knulli/releases) unzip and throw it in `roms/ports` and start from there directly (works on both ext4 & exfat)
 
 2- Dont Panic! be patient and wait for process to be finished successfully
 
